@@ -33,6 +33,40 @@ _G["openers"] = {
             [6]=8676,       -- ambush
         },
         subtlety = {
+            [1]=185438,     -- shadowstrike
+            [2]=185438,     -- shadowstrike
+            [3]=384631,     -- Flagellation
+            [4]=185313,     -- shadow dance
+            [5]=381623,     -- Thistle Tea
+            [6]=212283,     -- Symbols of Death
+            [7]=121471,     -- Shadow Blades
+            [8]=53,         -- backstab
+            [9]=196819,     -- Eviscerate
+            [10]=185438,    -- shadowstrike
+            [11]=280719,    -- Secret Technique
+            [12]=185438,    -- shadowstrike
+            [13]=196819,    -- Eviscerate
+            [14]=185438,    -- shadowstrike
+        },
+    },
+    mage = {
+        arcane = {
+        },
+        frost = {
+            [1]=116,        -- frostbolt
+            [2]=44614,      -- Flurry
+            [3]=12472,      -- Icy Veins
+            [4]=153595,     -- Comet Storm
+            [5]=30455,      -- Ice Lance
+            [6]=205021,     -- Ray of Frost
+            [7]=30455,      -- Ice Lance
+            [8]=30455,      -- Ice Lance
+            [9]=199786,     -- Glacial Spike
+            [10]=44614,     -- Flurry
+            [11]=84714,     -- Frozen Orb
+            [12]=382440,    -- Shifting Power
+        },
+        fire = {
         },
     },
     warrior = {
