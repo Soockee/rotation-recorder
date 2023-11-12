@@ -1,0 +1,7 @@
+## Interface: 52106
+## Version: 1.0.0
+## Title: RotationRecoder
+## Notes: Rotation Recorder - Tracks your pressed abilities and marks them off according to a user defined definition file 
+## Author: Simon Stockhause
+
+RotationRecoder.lua
